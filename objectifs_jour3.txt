@@ -1,0 +1,21 @@
+Les exceptions et leur gestion :
+- L'utilisation du mécanisme d'exception pour la gestion des erreurs 
+=> TP découverte des exceptions
+=> TP gestion des exceptions
+
+La POO : 
+
+- Les particularités du modèle objet de Python 
+
+- Déclaration, instanciation des classes 
+
+- Les constructeurs, les attributs, les proprietes et les fonctions (méthodes)
+
+- L'héritage simple, l'héritage multiple, 
+
+- le polymorphisme 
+
+- L’encapusulation 
+
+=> TP création et instanciation d'une classe
+

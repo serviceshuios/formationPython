@@ -1,0 +1,9 @@
+﻿exercices fonctions:
+1. Calculer le carré d’un nombre et retourne le nombre au carré
+2.Une fonction qui teste si un entier est divisible par 10 mais pas par 3 et retourne vrai ou faux
+
+3.Une fonction qui compte le nombre de voyelles (minuscules, sans accents) dans une chaîne de
+caractères u passée en argument et retourne le nombre de voyelles 
+
+4.une fonction qui calcule la factorielle d'un nombre 
+f(n) = n × f(n − 1) f(0) = 1 et f(1) = 1 et retourne la factorielle

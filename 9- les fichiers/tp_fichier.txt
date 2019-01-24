@@ -1,0 +1,7 @@
+exercice 1 :
+ecrire une fonction qui prends en paramètre 2 fichiers:
+- 1 fichier source 
+- 1 un fichier destination
+Objectif : ecrire dans le fichier destination toutes les lignes qui ne commencent pas par # dans le fichier source
+exemple de fichier source : commentaires.txt
+en fin de traitement, vous devez avoir le fichier sans_commentaires.txt
